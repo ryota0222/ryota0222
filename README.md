@@ -1,4 +1,4 @@
-### RyoTa.
+# RyoTa.
 
 <!--
 **RyoTa0222/RyoTa0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Contributions
+## Contributions
 ![](https://raw.githubusercontent.com/RyoTa0222/RyoTa0222/80dc1f74d04d96f4a7ac1db2338f77a317a0032e/profile-3d-contrib/profile-green-animate.svg)
