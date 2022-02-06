@@ -1,4 +1,5 @@
-![ryota](https://user-images.githubusercontent.com/45546517/128380419-381b5922-65b2-4b9e-9414-8bcc48b109dd.gif)
+![ryota-portfolio](https://user-images.githubusercontent.com/45546517/152675760-278b39c2-7c00-4f25-af5d-31f0b4d595bc.png)
+
 
 <!--
 **RyoTa0222/RyoTa0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
