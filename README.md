@@ -1,4 +1,4 @@
-![ryota-portfolio](https://user-images.githubusercontent.com/45546517/152675760-278b39c2-7c00-4f25-af5d-31f0b4d595bc.png)
+![ryota-portfolio](https://user-images.githubusercontent.com/45546517/163661897-9a90be2a-afc8-4784-b2f0-1ceb11cd1d69.png)
 
 
 <!--
