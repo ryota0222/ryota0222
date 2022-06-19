@@ -18,61 +18,26 @@ Here are some ideas to get you started:
 
 ## Skills
 
-<div>
-  <h3 height="50px">・Language / Framework / Library</h3>
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" width="20px" height="20px" />
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" width="20px" height="20px" />
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" width="20px" height="20px" />
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/typescript.svg" width="20px" height="20px" />
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" width="20px" height="20px" />
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/react.svg" width="20px" height="20px" />
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/vuedotjs.svg" width="20px" height="20px" />
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/nextdotjs.svg" width="20px" height="20px" />
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/expo.svg" width="20px" height="20px" />
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/storybook.svg" width="20px" height="20px" />
-</div>
-
-<br />
-
-<div>
-  <h3 height="50px">・Platform</h3>
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/firebase.svg" width="20px" height="20px" />
-</div>
-
-<br />
-
-<div>
-  <h3 height="50px">・CI / CD</h3>
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/fastlane.svg" width="20px" height="20px" />
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/githubactions.svg" width="20px" height="20px" />
-</div>
-
-<br />
-
-<div>
-  <h3 height="50px">・Hosting Service</h3>
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/netlify.svg" width="20px" height="20px" />
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/vercel.svg" width="20px" height="20px" />
-</div>
-
-<br />
-
-<div>
-  <h3 height="50px">・CMS</h3>
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/contentful.svg" width="20px" height="20px" />
-</div>
-
-<br />
-
-<div>
-  <h3 height="50px">・Design Tools</h3>
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobeillustrator.svg" width="20px" height="20px" />
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobephotoshop.svg" width="20px" height="20px" />
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobexd.svg" width="20px" height="20px" />
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobeaftereffects.svg" width="20px" height="20px" />
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/figma.svg" width="20px" height="20px" />
-</div>
+![skill](https://user-images.githubusercontent.com/45546517/174467621-57329bd5-5c6e-4fe3-944e-1a7b68c634d5.png)
 
 
-## Contributions
+## Links
+
+### SNS, 記事
+[Twitter](https://twitter.com/RyoTa___0222)
+
+[Qiita](https://qiita.com/RyoTa_0222)
+
+[Zenn](https://zenn.dev/ryota0222)
+
+### 運営している勉強会
+[つながる勉強会](https://discreet-cause-4e3.notion.site/510afcfd8862449eb24521b3b7d8fedf)
+
+[Web Creators Meetup in KANSAI](https://web-creator-meetup-in-kansai.connpass.com/)
+
+### イラスト
+
+[LINE Creators Market](https://store.line.me/stickershop/author/104726/ja)
+
+### Contributions
 ![](https://github.com/RyoTa0222/RyoTa0222/blob/main/profile-3d-contrib/profile-night-green.svg)
