@@ -1,5 +1,4 @@
-![ryota-portfolio](https://user-images.githubusercontent.com/45546517/163661897-9a90be2a-afc8-4784-b2f0-1ceb11cd1d69.png)
-
+![thumbnail](https://github.com/ryota0222/ryota0222/assets/45546517/cea3f162-57f0-4e4b-9eee-b481b1336bbb)
 
 <!--
 **RyoTa0222/RyoTa0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,28 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Skills
+## Portfolio
 
-![skill](https://user-images.githubusercontent.com/45546517/174467621-57329bd5-5c6e-4fe3-944e-1a7b68c634d5.png)
-
+[Portfolio](https://portfolio.ryotanny.com)
 
 ## Links
 
-### SNS, 記事
-[Twitter](https://twitter.com/RyoTa___0222)
-
-[Qiita](https://qiita.com/RyoTa_0222)
-
-[Zenn](https://zenn.dev/ryota0222)
-
-### 運営している勉強会
-[つながる勉強会](https://discreet-cause-4e3.notion.site/510afcfd8862449eb24521b3b7d8fedf)
-
-[Web Creators Meetup in KANSAI](https://web-creator-meetup-in-kansai.connpass.com/)
-
-### イラスト
-
-[LINE Creators Market](https://store.line.me/stickershop/author/104726/ja)
+[bento.me](https://bento.me/ryotanny)
 
 ### Contributions
+
 ![](https://github.com/RyoTa0222/RyoTa0222/blob/main/profile-3d-contrib/profile-night-green.svg)
